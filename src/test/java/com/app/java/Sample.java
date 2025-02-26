@@ -17,7 +17,7 @@ public class Sample {
 				}
 			}
 		}
-		
+		//testone for pr
 		String s = "Welcome to Java";
 		String replace = s.replace("W", "w").replace("e", "E");
 		System.out.println(replace);
